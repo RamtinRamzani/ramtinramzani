@@ -13,7 +13,7 @@ Always curious, always learning, and always ready for the next challenge 💡
 
 ### 🌟 A Little More About Me
 - 🌍 Based in Iran, working remotely with global teams  
-- 🏋️‍♂️ Fitness enthusiast: bodybuilding, CrossFit, and working toward a six-pack  
+- 🏋️‍♂️ Fitness enthusiast: bodybuilding, CrossFit, Soccer Player 
 - 🎯 Open to exciting and challenging projects  
 
 ---

@@ -9,7 +9,7 @@ Always curious, always learning, and always ready for the next challenge 💡
 - **Frameworks & Libraries:** React, Next.js, Redux, Zustand, React Query
 - **Styling:** Tailwind CSS, Sass
 - **Tools:** Git, Postman, Figma, Vite
-- **Backend (Learning):** Node.js, GraphQL
+- **Backend (Learning):** Node.js, Express, MongoDB, GraphQL
 
 ---
 
